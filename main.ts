@@ -13,7 +13,7 @@ let Ties = 0
 let P2 = 0
 let P1 = 0
 OLED.init(128, 64)
-OLED.writeStringNewLine("\"Ready to lose?\"")
+OLED.writeStringNewLine("Ready to lose?")
 P1 = 0
 P2 = 0
 Ties = 0
